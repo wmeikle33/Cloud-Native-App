@@ -1,5 +1,7 @@
 # Cloud-Native-App
 
+```bash
+
 cloud-api/
 │
 ├── app/
@@ -15,4 +17,6 @@ cloud-api/
 ├── helm-chart/ (optional)
 ├── .github/workflows/
 └── README.md
+
+```
 
