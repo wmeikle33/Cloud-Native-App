@@ -1,7 +1,5 @@
 # Cloud-Native-App
 
-'''bash
-
 cloud-api/
 │
 ├── app/
@@ -18,4 +16,3 @@ cloud-api/
 ├── .github/workflows/
 └── README.md
 
-'''
